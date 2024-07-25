@@ -1,0 +1,25 @@
+{
+  "name": "lottery_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmystark/lottery_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmystark/lottery_app/issues"
+  },
+  "homepage": "https://github.com/emmystark/lottery_app#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
+}
